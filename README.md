@@ -1,4 +1,4 @@
-<h2 align="center">
+<!-- <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">suyash</a>
 </h2>
@@ -7,7 +7,7 @@
 </div>
 
 <br/>
-
+ -->
 
 
 ## TL;DR
